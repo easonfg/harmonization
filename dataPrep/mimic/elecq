@@ -1,0 +1,53 @@
+                 List of relations
+  Schema  |        Name         | Type  |  Owner   
+----------+---------------------+-------+----------
+ mimiciii | admissions          | table | mimic
+ mimiciii | allevents           | table | mimic
+ mimiciii | callout             | table | mimic
+ mimiciii | caregivers          | table | mimic
+ mimiciii | chartevents         | table | mimic
+ mimiciii | chartevents_1       | table | mimic
+ mimiciii | chartevents_10      | table | mimic
+ mimiciii | chartevents_11      | table | mimic
+ mimiciii | chartevents_12      | table | mimic
+ mimiciii | chartevents_13      | table | mimic
+ mimiciii | chartevents_14      | table | mimic
+ mimiciii | chartevents_2       | table | mimic
+ mimiciii | chartevents_3       | table | mimic
+ mimiciii | chartevents_4       | table | mimic
+ mimiciii | chartevents_5       | table | mimic
+ mimiciii | chartevents_6       | table | mimic
+ mimiciii | chartevents_7       | table | mimic
+ mimiciii | chartevents_8       | table | mimic
+ mimiciii | chartevents_9       | table | mimic
+ mimiciii | cond_lookup         | table | mimic
+ mimiciii | cptevents           | table | mimic
+ mimiciii | d_cpt               | table | mimic
+ mimiciii | d_icd_diagnoses     | table | mimic
+ mimiciii | d_icd_procedures    | table | mimic
+ mimiciii | d_items             | table | mimic
+ mimiciii | d_labitems          | table | mimic
+ mimiciii | datetimeevents      | table | mimic
+ mimiciii | diag_demo_count     | table | mimic
+ mimiciii | diag_lookup         | table | mimic
+ mimiciii | diagnoses_icd       | table | mimic
+ mimiciii | drgcodes            | table | mimic
+ mimiciii | gender_count        | table | postgres
+ mimiciii | icustays            | table | mimic
+ mimiciii | inputevents_cv      | table | mimic
+ mimiciii | inputevents_mv      | table | mimic
+ mimiciii | labevents           | table | mimic
+ mimiciii | microbiologyevents  | table | mimic
+ mimiciii | noteevents          | table | mimic
+ mimiciii | outputevents        | table | mimic
+ mimiciii | patients            | table | mimic
+ mimiciii | prescription_lookup | table | mimic
+ mimiciii | prescriptions       | table | mimic
+ mimiciii | procedureevents_mv  | table | mimic
+ mimiciii | procedures_icd      | table | mimic
+ mimiciii | race_count          | table | postgres
+ mimiciii | services            | table | mimic
+ mimiciii | symp_lookup         | table | mimic
+ mimiciii | transfers           | table | mimic
+(48 rows)
+
